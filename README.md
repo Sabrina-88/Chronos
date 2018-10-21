@@ -9,6 +9,7 @@ Project Laboratoria Hackaton 12hs - Create a web-app that uses an Open Weather A
 * Bootstrap
 * Javascript
 * Jquery
+* Firebase
 * API Here Maps
 * API Open Weather
 
@@ -23,6 +24,7 @@ Projeto do Hackaton de 12hs da Laboratoria - Criar um web-app que utiliza a API 
 * Bootstrap
 * Javascript
 * Jquery
+* Firebase
 * API Here Maps
 * API Open Weather
 
